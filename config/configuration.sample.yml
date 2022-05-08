@@ -1,7 +1,7 @@
-servername: 'http://local.phrasea/'
+servername: 'http://local.phrasea/' 
 languages:
     available: []
-    default: 'en'
+    default: 'fr'
 main:
     maintenance: false
     languages: []
